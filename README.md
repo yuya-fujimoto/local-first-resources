@@ -45,8 +45,11 @@ by Martin Kleppmann](https://www.youtube.com/watch?v=GXJ0D2tfZCM)
 ### Blogs
 - [An Interactive Intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
 - [Designing Data Structures for Collaborative Apps](https://mattweidner.com/2022/02/10/collaborative-data-design.html)
-- [CRDT Survey, Part 1: Introduction](https://mattweidner.com/2023/09/26/crdt-survey-1.html)
-- [CRDT Survey, Part 2: Semantic Techniques](https://mattweidner.com/2023/09/26/crdt-survey-2.html)
+- CRDT Survey by Matthew Weidner
+    - [Part 1: Introduction](https://mattweidner.com/2023/09/26/crdt-survey-1.html)
+    - [Part 2: Semantic Techniques](https://mattweidner.com/2023/09/26/crdt-survey-2.html)
+    - [Part 3: Algorithmic Techniques](https://mattweidner.com/2023/09/26/crdt-survey-3.html)
+    - [Part 4: Further Topics](https://mattweidner.com/2023/09/26/crdt-survey-4.html)
 - [An introduction to Conflict-Free Replicated Data Types
 ](https://lars.hupel.info/topics/crdt/01-intro/)
 - [Fuzz Testing RGA CRDT: Making sure collaborative text editing works correctly](https://jsonjoy.com/blog/fuzz-testing-rga-crdt)
@@ -54,6 +57,7 @@ by Martin Kleppmann](https://www.youtube.com/watch?v=GXJ0D2tfZCM)
 - [I was wrong. CRDTs are the future](https://josephg.com/blog/crdts-are-the-future/)
 - [A Look at Conflict-Free Replicated Data Types (CRDT)](https://medium.com/@istanbul_techie/a-look-at-conflict-free-replicated-data-types-crdt-221a5f629e7e)
 - [A Gentle Introduction to CRDTs](https://vlcn.io/blog/intro-to-crdts)
+- [You might not need a CRDT](https://driftingin.space/posts/you-might-not-need-a-crdt)
 - [Towards a unified theory of Operational Transformation and CRDT](https://medium.com/@raphlinus/towards-a-unified-theory-of-operational-transformation-and-crdt-70485876f72f)
 
 ### Videos
