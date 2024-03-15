@@ -1,7 +1,6 @@
 # Local-first Resources
 
-> A distributed system is one in which the failure of a computer you didn't even know existed can render your own computer unusable 
-> -- <cite>Leslie Lamport (1987)</cite>
+> A distributed system is one in which the failure of a computer you didn't even know existed can render your own computer unusable - <cite>Leslie Lamport (1987)</cite>
 
 In local-first software, the availability of another computer should never prevent you from working.
 - [Local-first software: You own your data, in spite of the cloud](https://www.inkandswitch.com/local-first/) 
