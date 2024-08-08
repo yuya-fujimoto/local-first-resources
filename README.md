@@ -15,6 +15,7 @@ In local-first software, the availability of another computer should never preve
 - [Building data-centric apps with a reactive relational database](https://riffle.systems/essays/prelude/) (Mar, 2022)
 - [What if we had Local-First Software?](https://adlrocha.substack.com/p/adlrocha-what-if-we-had-local-first) (Oct, 2020)
 - [In Search of a Local-First Database](https://jaredforsyth.com/posts/in-search-of-a-local-first-database/) (Apr, 2020)
+- [How Figma’s multiplayer technology works](https://www.figma.com/blog/how-figmas-multiplayer-technology-works/) (Oct, 2019)
 
 
 ### Videos
