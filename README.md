@@ -7,6 +7,7 @@ In local-first software, the availability of another computer should never preve
 
 
 ### Blogs
+- [How we sped up Notion in the browser with WASM SQLite](https://www.notion.so/blog/how-we-sped-up-notion-in-the-browser-with-wasm-sqlite) (July, 2024)
 - [Ready Player Two: Bringing Game-Style State Synchronization to the Web](https://rocicorp.dev/blog/ready-player-two) (Oct, 2023)
 - [Some notes on Local-First Development](https://bricolage.io/some-notes-on-local-first-development/) (Sep, 2023)
 - [Developing local-first software](https://electric-sql.com/blog/2023/02/09/developing-local-first-software) (Feb, 2023)
